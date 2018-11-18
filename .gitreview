@@ -1,0 +1,5 @@
+[gerrit]
+host=review.blissroms.com
+port=29418
+project=platform_prebuilts_clang_host_linux-x86.git
+defaultbranch=p9.0
